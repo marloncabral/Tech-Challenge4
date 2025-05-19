@@ -1,7 +1,7 @@
 
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 st.set_page_config(layout="wide")
 st.title('Variação do Preço por Barril do Petróleo Bruto Brent (FOB)')
